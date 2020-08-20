@@ -1,6 +1,6 @@
 # Information for New Users
 
-## Obtaining an account
+## Obtaining an individual account
 
 An account is required to access and use the Palmetto
 cluster. All Clemson University students, faculty and staff
@@ -14,6 +14,18 @@ can request an account following the procedure detailed below:
 5. Once the form is complete, press the "Submit" button.
 
 Account requests are typically reviewed and approved between 24-48 hours.
+
+## Obtaining the bulk accounts for classes.
+
+Faculty who conducts course and need to have Palmetto account for all students, please submit Bulk Account request
+
+1. Access the new ITHelp Portal at <https://clemson.cherwellondemand.com/CherwellPortal>
+2. After Logging in Select "Browse Our Services"
+3. Select Research > Research Computing > High Perf Computing and Storage
+4. Under High Perf Computing and Storage, select "Request Bulk Account"
+5. Enter the information requested.
+5. Once the form is complete, press the "Submit" button.
+
 
 ### On-boarding sessions
 

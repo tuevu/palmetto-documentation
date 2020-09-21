@@ -5,7 +5,7 @@ for C, C++ and Fortran applications:
 
 1. GNU Compiler Collection (`gcc`)
 2. Intel Compiler Suite
-3. PGI Compiler Suite
+
 
 ~~~
 $ module avail gcc
